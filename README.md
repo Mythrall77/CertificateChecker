@@ -1,7 +1,7 @@
 This application is a "helper application" that makes it easier to keep track of expiring certificates.
 You can set up a task schedule to run daily and have the application send an email if a certificate is expiring.
 
-Here is the output from teh "help":
+Here is the output from the "help":
 CertificateChecker.exe -h
 ---> DEBUG: StoreLocation='LocalMachine', StoreName='My', ExpireWithin='', ExpiredOnly='False', EmailNotify='False', DeleteThumbprint='', Filter='' <---
 
