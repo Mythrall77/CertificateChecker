@@ -1,0 +1,25 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CertificateChecker", "CertificateChecker\CertificateChecker.csproj", "{374F45FC-808A-494F-A883-87F46005930F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{374F45FC-808A-494F-A883-87F46005930F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{374F45FC-808A-494F-A883-87F46005930F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{374F45FC-808A-494F-A883-87F46005930F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{374F45FC-808A-494F-A883-87F46005930F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC7A3A2E-85FB-40FB-81A9-64D2312167D3}
+	EndGlobalSection
+EndGlobal
